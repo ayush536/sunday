@@ -1,0 +1,23 @@
+ .teacherCard{
+    border: 2px solid black;
+    color: aliceblue;
+    text-align: left;
+    background-color: aliceblue;
+} 
+
+/* image{
+    width: 70px;
+    height: 70px;
+}  */
+.title, .price{
+    color: black;
+    position: relative;
+    margin-left: 440px;
+    margin-top: 0px;
+
+}
+.im{
+    border-radius: 10px;
+    margin-left: 10px;
+    height: 100%;
+}

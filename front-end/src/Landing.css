@@ -1,0 +1,17 @@
+.ayu{
+    text-align: center;
+    color: orangered;
+}
+.mainContainer{
+    color: antiquewhite;
+    border: 5px solid white;
+    text-align: center;
+    color: white;
+}
+image{
+    border-radius: 10px;
+    height: auto;
+}
+body{
+    background-color: aliceblue;
+}

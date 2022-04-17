@@ -1,0 +1,59 @@
+{
+    "teachers":[
+        {
+            "id": "1",
+            "name": "Isha Kataria",
+            "age": "35 years",
+            "subject": "counceller",
+            "classes": " 4 i.e WEB14, WEB15, WEB16, WEB17 ",
+            "imageUrl" : "httpss://cdn.xxl.thumbs.canstockphoto.com/code-of-laws-legislation-concept-old-brass-weight-scale-standing-on-ancient-book-under-beam-of-stock-imageUrl_csp8142396.jpg"
+        },
+        {
+            "id": "2",
+            "name": "Albert",
+            "age": "37 years",
+            "subject": "coding",
+            "classes": " 3 i.e  WEB10, WEB11, WEB18 ",
+            "imageUrl" : "httpss://cdn.xxl.thumbs.canstockphoto.com/code-of-laws-legislation-concept-old-brass-weight-scale-standing-on-ancient-book-under-beam-of-stock-imageUrl_csp8142396.jpg"
+        
+        },
+        {
+            "id": "3",
+            "name": "YOGESH",
+            "age": "45 years",
+            "subject": "STAND UP",
+            "classes": " 5 i.e WEB 18, WEB10, WEB11, WEB18 ",
+            "imageUrl" : "httpss://cdn.xxl.thumbs.canstockphoto.com/code-of-laws-legislation-concept-old-brass-weight-scale-standing-on-ancient-book-under-beam-of-stock-imageUrl_csp8142396.jpg"
+        
+        }, 
+            {
+                "id": "4",
+                "name": "SWANAND",
+                "age": "32 ",
+                "subject": "coding",
+                "classes": " 3 i.e  WEB10, WEB11, WEB18 ",
+                "imageUrl" : "httpss://cdn.xxl.thumbs.canstockphoto.com/code-of-laws-legislation-concept-old-brass-weight-scale-standing-on-ancient-book-under-beam-of-stock-imageUrl_csp8142396.jpg"
+            
+            },
+            {
+                "id": "5",
+                "name": "NRUPUL",
+                "age": "41",
+                "subject": "coding/DSA",
+                "classes": " 3 i.e  WEB10, WEB11, WEB18 ",
+                "imageUrl" : "httpss://cdn.xxl.thumbs.canstockphoto.com/code-of-laws-legislation-concept-old-brass-weight-scale-standing-on-ancient-book-under-beam-of-stock-imageUrl_csp8142396.jpg"
+            
+            },
+            {
+                "id": "6",
+                "name": "PRABHANJAN",
+                "age": "37 ",
+                "subject": "coding",
+                "classes": " 5 i.e WEB18, WEB11 WEB10, WEB11, WEB18 ",
+                "imageUrl" : "httpss://cdn.xxl.thumbs.canstockphoto.com/code-of-laws-legislation-concept-old-brass-weight-scale-standing-on-ancient-book-under-beam-of-stock-imageUrl_csp8142396.jpg"
+            
+            }
+            
+        
+    ]
+}
